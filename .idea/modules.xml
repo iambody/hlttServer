@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hltt.iml" filepath="$PROJECT_DIR$/.idea/modules/hltt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hltt_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hltt_main.iml" group="hltt" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hltt_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hltt_test.iml" group="hltt" />
+    </modules>
+  </component>
+</project>
